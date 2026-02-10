@@ -1,0 +1,19 @@
+{
+  "name": "reactmyntra",
+  "version": "1.0.0",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohangupta2/ReactMyntra.git"
+  },
+  "author": "Rohan Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohangupta2/ReactMyntra/issues"
+  },
+  "homepage": "https://github.com/rohangupta2/ReactMyntra#readme",
+  "description": ""
+}
