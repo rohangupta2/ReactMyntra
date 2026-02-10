@@ -15,5 +15,9 @@
     "url": "https://github.com/rohangupta2/ReactMyntra/issues"
   },
   "homepage": "https://github.com/rohangupta2/ReactMyntra#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
 }
